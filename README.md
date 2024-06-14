@@ -1,7 +1,3 @@
-Here's a friendly and straightforward description for your GitHub repository, tailored for beginners and suitable for all ages:
-
----
-
 # Let's Train a Simple Neural Net from Scratch
 
 Welcome to the "Let's Train a Simple Neural Net from Scratch" repository! This project is a beginner-friendly guide designed to introduce you to the world of machine learning.
